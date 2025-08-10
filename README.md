@@ -18,7 +18,6 @@
 
 **MSYS2をインストールした方へ**
 MSYS2 MINGW64 Shell（かMSYS2 MINGW32 Shell）を起動して、
-
     1. `pacman -Syu`と入力し実行（エンター）。
     2. `pacman -S --needed base-devel mingw-w64-ucrt-x86_64-toolchain`と入力し実行
     3. 
